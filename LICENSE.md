@@ -1,12 +1,12 @@
 ##### Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-##### Copyright (c) 2023 Dracula Theme
+##### Copyright (c) 2025 Zentheon
 
 # About
 
 This resourcepack is under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-GeoFont (typeface) is licensed under [SIL Open Font License 1.1](https://github.com/Xetheon/GeoFont/blob/main/LICENSE)
+GeoFont (typeface) is licensed under [SIL Open Font License 1.1](https://github.com/Zentheon/geofont/blob/main/license)
 
  You are free to:
 
