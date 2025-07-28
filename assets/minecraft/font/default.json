@@ -29,8 +29,8 @@
       "type": "ttf",
       "file": "geofont.ttf",
       "shift": [0, 0],
-      "size": 10,
-      "oversample": 25
+      "size": 10.2,
+      "oversample": 24.2
     },
     {
       "type": "space",
