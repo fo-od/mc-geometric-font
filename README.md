@@ -23,7 +23,7 @@ Or, for Edge:
 
 Alternatively, you can also download the pack by going to any of its release pages:
 
-| [![Modrinth](./images/modrinth.png)](https://modrinth.com/resourcepack/geometric-font-2) | [![Github](./images/github.png)](https://github.com/zentheon/mc-geometric-font/releases) |
+| [![Modrinth](./images/modrinth.png)](https://modrinth.com/resourcepack/geometric-font-2) | [![Github](./images/github.png)](https://github.com/Zentheon/mc-geometric-font/releases) |
 | --- | --- |
 | [Modrinth](https://modrinth.com/resourcepack/geometric-font-2) | [Github](https://github.com/zentheon/mc-geometric-font/releases) |
 
@@ -31,7 +31,7 @@ Alternatively, you can also download the pack by going to any of its release pag
 
 ## Resources
 
-- Want to use this font in your own works? See the [license](https://github.com/zentheon/mc-geometric-font/blob/main/LICENSE.md)
+- Want to use this font in your own works? See the [license](https://github.com/Zentheon/mc-geometric-font/blob/main/LICENSE.md)
 - Curious about updates on things I work on or just want to hang out? Join my [Discord!](https://discord.gg/3gtNAQgv2G)
-- Interested in other packs I've made? Check out [this list!](https://gist.github.com/zentheon/c3d677e0762658f8d79cf05e2c6e65ff)
-- The GeoFont typeface can be found in its own repo [here!](https://github.com/zentheon/GeoFont)
+- Interested in other packs I've made? Check out [this list!](https://gist.github.com/Zentheon/c3d677e0762658f8d79cf05e2c6e65ff)
+- The GeoFont typeface can be found in its own repo [here!](https://github.com/Zentheon/geofont)
